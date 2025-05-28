@@ -1,3 +1,7 @@
+## Code bao gồm:
+1. Thư mục app chứa phần mềm phân loại thư rác đơn giản
+2. Code python các mô hình NaiveBayes, Logistic Regression, KNN, DecisionTree
+3. Tập dữ liệu trani, test tên "email1.csv"
 ## Hướng dẫn sử dụng phần mềm
 
 **Lưu ý:** Mô hình của phần mềm là Logistic Regression (mô hình được đánh giá tốt nhất sau khi train)
@@ -6,7 +10,7 @@
 
 2. **Giải nén** file ZIP ra thư mục bất kỳ.
 
-3. Trong thư mục đã giải nén, **chạy file `.exe`** (có thể có tên như `main.exe`).
+3. Trong thư mục đã giải nén, **chạy file `.exe`** (có thể có tên như `main.exe`) trong thư mục "app".
 
 4. Khi chạy phần mềm:
    - Sau một vài phút (lần đầu chạy có thể mất **khoảng 3–5 phút tùy theo máy**), một **màn hình trắng** sẽ hiện ra – đây là **giao diện chính của phần mềm**.
